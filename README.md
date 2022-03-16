@@ -1,0 +1,2 @@
+# MUSIC STUDIO WEBSITE
+I developed a music studio landing page website where yoou can view the studios services and contact them for a shooting session. It was a fun project right from designing to developing.
