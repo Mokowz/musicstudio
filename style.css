@@ -236,6 +236,13 @@ body{
     position:relative;
     top:60px;
   }
+  button{
+    transition: all .3s;
+  }
+  button:hover{
+    background-color: #ff9100;
+    
+  }
   .footer{
     padding-left:100px;
     padding-right:100px;
